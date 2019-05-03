@@ -1,0 +1,88 @@
+
+.left{
+    position: relative;
+    background-color: white;
+    margin-top: 5px;
+}
+
+.right{
+    position: relative;
+    background-color: white;
+    margin-top: 5px;
+    display: flex;
+    float: right;
+}
+
+.rightContent{
+    position: relative;
+    display: flex;
+    padding-top: 18px;
+}
+
+.leftContent{
+    position: relative;
+    display: flex;
+    padding-top: 18px;
+    font-weight: bolder;  
+}
+
+.rC{
+    padding-right: 30px;
+    
+}
+
+.plusIcon{
+    cursor: pointer;
+}
+
+.dashTabsDiv{
+    position: relative;
+    text-align:left; 
+    background-color: white;
+    padding: 0px;
+    }
+
+  
+ 
+.dashTabsDiv li {
+    padding-right: 150px;
+}
+
+.test{
+   width: 100%;
+}
+
+.test .tabsMainDiv{
+    padding: 0px;
+}
+
+.horizonLine{
+    margin: 0px;
+}
+
+.leftcolDiv{
+   
+}
+
+.rightcolDiv{ 
+   
+       
+}
+
+.closeIcon:hover{
+    opacity: 1;
+}
+
+.closeIcon{
+    position: relative;
+    opacity: 0.5;
+    width: 40px;
+    height: 40px;
+    
+}
+
+.containerWrapDiv{
+    
+}
+
+

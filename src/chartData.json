@@ -1,0 +1,13 @@
+{
+    "dataheaderOne":"Task",
+    "dataheaderTwo":"Value",
+    "labelonename":"90% state(> 8 days old):9122--test",
+    "labeloneval":90,
+    "labeltwoname":"10% fresh(< 8 days old):10--test",
+    "labeltwoval":10,
+    "width":"auto",
+    "height":"500px",
+    "chartType":"PieChart",
+    "title":"Inventory",
+    "pieHole":0.5
+}
